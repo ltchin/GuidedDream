@@ -1,0 +1,33 @@
+"Writing is nothing more than a guided dream." - Jorge Luis Borges
+
+1) Inbox the game
+and somehow gamifying Gmail to respond to email
+
+
+Other game engines - libGDX, Starling, HaxeFlixel
+
+
+2) a level maker version of http://jayisgames.com/review/silent-conversation.php
+where the focus is less on touching all the words and more on just experiencing the words
+very much a webtoy concept
+
+- Game ends when you touch the last word
+- Invisible floor?
+- picture with words
+- linear progression <- challenge this concept
+- Rather than focus on linear progression through a narrative - try for exploration
+	- hidden meanings?
+	- play with juxtas?
+	- different ways to fiinish level
+	- 
+- " Suddenly I'm thinking about my score instead of the story, whether it's worth it to restart just to get an A+, and 90% of the time it isn't because I don't want to start the story over when I know that'll make it lose its power. "
+
+
+
+- removing the penalty parts, and redoing the "scoring system"
+- Trying new music /  jump noises and sounds?
+
+Stretch goals:
+- upload your own texts
+- having the game automatically arrange the text interestingly
+- generic level maker
